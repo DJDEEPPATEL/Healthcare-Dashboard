@@ -1,5 +1,6 @@
 # Patient Waiting List Analysis — Power BI Dashboard
 An interactive Power BI dashboard for analysing patient waiting list trends across specialties, case types, and age profiles. The report tracks total wait list volumes over time, breaks them down by specialty group, and allows drill-through from summary KPIs down to record-level detail.
+
 ![Summary Page](https://github.com/DJDEEPPATEL/Healthcare-Dashboard/blob/main/Home_Page.png)
 
 📊 Overview
@@ -21,10 +22,12 @@ Monthly trend of Day Case / Inpatient vs. Outpatient volumes
 
 2. Detail
 A filterable, expandable matrix showing wait list counts by Archive Date → Specialty → Age Profile, broken out by Day Case, Inpatient, Outpatient, and Total. Includes slicers for date range, case type, specialty, age profile, and time band.
+
 ![Detail Page](https://github.com/DJDEEPPATEL/Healthcare-Dashboard/blob/main/Detail_Page.png))
 
-3. DrillDown
+4. DrillDown
 Drill-through page showing total wait list broken down by Specialty Group (e.g. Bones, General, ENT, Eyes, Skin, Heart), reached by drilling from the Summary or Detail pages.
+
 ![DrillDown Page](https://github.com/DJDEEPPATEL/Healthcare-Dashboard/blob/main/DrillDown_Page.png))
 
 🛠️ Built With
