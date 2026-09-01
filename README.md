@@ -1,4 +1,4 @@
-# Patient Waiting List Analysis — Power BI Dashboard
+# Patient Waiting List Analysis - Power BI Dashboard
 An interactive Power BI dashboard for analysing patient waiting list trends across specialties, case types, and age profiles. The report tracks total wait list volumes over time, breaks them down by specialty group, and allows drill-through from summary KPIs down to record-level detail.
 
 ![Summary Page](https://github.com/DJDEEPPATEL/Healthcare-Dashboard/blob/main/Home_Page.png)
