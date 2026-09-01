@@ -23,9 +23,9 @@ Monthly trend of Day Case / Inpatient vs. Outpatient volumes
 2. Detail
 A filterable, expandable matrix showing wait list counts by Archive Date → Specialty → Age Profile, broken out by Day Case, Inpatient, Outpatient, and Total. Includes slicers for date range, case type, specialty, age profile, and time band.
 
-![Detail Page](https://github.com/DJDEEPPATEL/Healthcare-Dashboard/blob/main/Detail_Page.png))
+![Detail Page](https://github.com/DJDEEPPATEL/Healthcare-Dashboard/blob/main/Detail_Page.png)
 
-4. DrillDown
+3. DrillDown
 Drill-through page showing total wait list broken down by Specialty Group (e.g. Bones, General, ENT, Eyes, Skin, Heart), reached by drilling from the Summary or Detail pages.
 
 ![DrillDown Page](https://github.com/DJDEEPPATEL/Healthcare-Dashboard/blob/main/DrillDown_Page.png))
